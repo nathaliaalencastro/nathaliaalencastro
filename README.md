@@ -1,4 +1,4 @@
-### Hi everyone ###
+### Hi everyone! ###
 <div align="center">
   <a href="https://github.com/nathaliaalencastro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathaliaalencastro&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
