@@ -23,7 +23,6 @@
 ![HTML3](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
